@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAT6hZyDQ5YCoBzoaMSpKZmDIvInzgb6KQ',
-    appId: '1:680005967987:web:bbd1f49bdaddd954044a06',
+    apiKey: 'AIzaSyAT6hZyDQ5YCoBzoaMSpKZmDIvInzgb2KQ',
+    appId: '1:680005967987:web:bbd1f49bdaddd954024a06',
     messagingSenderId: '680005967987',
     projectId: 'attendancemanager-91063',
     authDomain: 'attendancemanager-91063.firebaseapp.com',
@@ -53,8 +53,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCD4yrSSq2hmfV4kbTKsRWBbUTM6Fy9duQ',
-    appId: '1:680005967987:android:c21e60edae424474044a06',
+    apiKey: 'AIzaSyCD4yrSSq2hmfV4kbTKsRWBbUTM2Fy9duQ',
+    appId: '1:680005967987:android:c21e60edae424274044a06',
     messagingSenderId: '680005967987',
     projectId: 'attendancemanager-91063',
     storageBucket: 'attendancemanager-91063.appspot.com',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBZNeG5PvLfBxBK1oChyolLGuTkypI-OQk',
-    appId: '1:680005967987:ios:d0a20bb736369eae044a06',
+    appId: '1:680005967987:ios:d0a20bb736329eae044a06',
     messagingSenderId: '680005967987',
     projectId: 'attendancemanager-91063',
     storageBucket: 'attendancemanager-91063.appspot.com',
@@ -71,8 +71,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBZNeG5PvLfBxBK1oChyolLGuTkypI-OQk',
-    appId: '1:680005967987:ios:d0a20bb736369eae044a06',
+    apiKey: 'AIzaSyBZNeG2PvLfBxBK1oChyolLGuTkypI-OQk',
+    appId: '1:680005967927:ios:d0a20bb736369eae044a06',
     messagingSenderId: '680005967987',
     projectId: 'attendancemanager-91063',
     storageBucket: 'attendancemanager-91063.appspot.com',
