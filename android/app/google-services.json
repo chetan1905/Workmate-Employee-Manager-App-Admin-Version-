@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "680005967987",
+    "project_id": "attendancemanager-91063",
+    "storage_bucket": "attendancemanager-91063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680005967987:android:c21e60edae424474044a06",
+        "android_client_info": {
+          "package_name": "com.example.attendance_manager_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680005967987-r18pq0c7j9gv7j9fkro8nn5tp9et8c8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD4yrSSq2hmfV4kbTKsRWBbUTM6Fy9duQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680005967987-r18pq0c7j9gv7j9fkro8nn5tp9et8c8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680005967987-fr9lno9nghdo5bb4c3iiniqklhnlpdq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newAttendanceManager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680005967987:android:a5a566080312b48b044a06",
+        "android_client_info": {
+          "package_name": "com.example.new_attendance_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680005967987-r18pq0c7j9gv7j9fkro8nn5tp9et8c8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD4yrSSq2hmfV4kbTKsRWBbUTM6Fy9duQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680005967987-r18pq0c7j9gv7j9fkro8nn5tp9et8c8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680005967987-fr9lno9nghdo5bb4c3iiniqklhnlpdq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newAttendanceManager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
